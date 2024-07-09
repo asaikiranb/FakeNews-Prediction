@@ -23,7 +23,7 @@ This project aims to detect fake news using a machine learning model. The datase
     - Use the trained model to predict the authenticity of news articles.
 
 ## Files
-- `fake_news_detection.ipynb`: Jupyter notebook containing the entire code for loading data, preprocessing, training, and evaluating the model.
+- `FakeNews_Prediction.ipynb`: Jupyter notebook containing the entire code for loading data, preprocessing, training, and evaluating the model.
 
 ## Libraries Used
 - pandas
@@ -43,7 +43,7 @@ This project aims to detect fake news using a machine learning model. The datase
     nltk.download('stopwords')
     ```
 3. **Run the Jupyter Notebook**:
-    - Open and run all cells in the `fake_news_detection.ipynb` notebook.
+    - Open and run all cells in the `FakeNews_Prediction.ipynb` notebook.
 
 ## Results
 - The model achieved an accuracy of approximately 98.66% on the training data and 97.91% on the test data.
